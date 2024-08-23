@@ -27,3 +27,4 @@ ui:
   recaptchaSitekeySecretKey: site_key
   recaptchaSitekeySecretName: recaptcha-v3-secrets
   subdomainSuffix: .wbaas.localhost
+replicaCount: 2
